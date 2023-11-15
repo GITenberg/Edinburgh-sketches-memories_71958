@@ -1,0 +1,30 @@
+_repo: Edinburgh-sketches-memories_71958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masson, David
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '2064'
+    url: http://www.gutenberg.org/2009/agents/2064
+    wikipedia: https://en.wikipedia.org/wiki/David_Masson
+description: ''
+gutenberg_issued: '2023-10-30'
+identifiers:
+  gutenberg: '71958'
+language: en
+pgterms:marc904: https://archive.org/details/edinburghsketche00mass/
+pgterms:marc905: 20200331141948masson
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Susan Skinner, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bAdam and Charles Black, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Edinburgh sketches & memories
+url: http://www.gutenberg.org/ebooks/71958
